@@ -1,4 +1,5 @@
 
+//module export like this node.js
 module.exports = (x,y,callback)=>{
 
 
